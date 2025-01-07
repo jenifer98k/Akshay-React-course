@@ -30,20 +30,3 @@ this command will install based on package.json package mentioned
 rm -rf node_modules package-lock.json
 npm install
 
-
-# parcel 
-- dev build 
-- local server
-- automatically refresh page => HMR
-- HMR -hot module replacement => automatically refresh page 
-- File watching algorithm by c++
-   - parcle keeps track on every files 
-   - Built in 20ms
-- caching - faster build 
- - parcel-cache - support hmr , make app faste dev 
- - delete cahe folder n run parcel
- - image optimization 
- - minify file
- - bundle 
- - compress - make file size small 
- - remove all white spaces

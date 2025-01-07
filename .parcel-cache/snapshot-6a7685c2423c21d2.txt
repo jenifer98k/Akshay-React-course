@@ -90,7 +90,7 @@
 100C:\Users\jenifer\Desktop\mern\react\ReactJs\episode1-react\node_modules\@swc\helpers\_\_create_class133803732551225366 1
 89C:\Users\jenifer\Desktop\mern\react\ReactJs\episode1-react\node_modules\tslib\LICENSE.txt133803732519853620 0
 96C:\Users\jenifer\Desktop\mern\react\ReactJs\episode1-react\node_modules\semver\classes\semver.js133803732533076570 0
-66C:\Users\jenifer\Desktop\mern\react\ReactJs\episode1-react\note.md133804397630191213 0
+66C:\Users\jenifer\Desktop\mern\react\ReactJs\episode1-react\note.md133806366275331214 0
 98C:\Users\jenifer\Desktop\mern\react\ReactJs\episode1-react\node_modules\@parcel\utils\.eslintrc.js133803732525403409 0
 114C:\Users\jenifer\Desktop\mern\react\ReactJs\episode1-react\node_modules\caniuse-lite\data\features\console-time.js133803732542341077 0
 71C:\Users\jenifer\Desktop\mern\react\ReactJs\episode1-react\package.json133803813043009242 0

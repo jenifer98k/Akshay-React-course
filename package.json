@@ -2,7 +2,7 @@
   "name": "episode1-react",
   "version": "1.0.0",
   "description": "this is akshay react ",
-  "main": "app.js",
+ 
   "scripts": {
     "test": "jest"
   },

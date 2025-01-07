@@ -82,6 +82,37 @@ tell browser its a module
 
 
 
+
+# parcel 
+- dev build 
+- local server
+- automatically refresh page => HMR
+- HMR -hot module replacement => automatically refresh page 
+- File watching algorithm by c++
+   - parcle keeps track on every files 
+   - Built in 20ms
+- caching - faster build 
+ - parcel-cache - support hmr , make app faste dev 
+ - delete cahe folder n run parcel
+ - image optimization 
+ - minify file
+ - bundle 
+ - compress - make file size small 
+ - remove all white spaces
+ - consistant hashing
+ - code splitting 
+ - diffrential bundling (ur app opens in all browser, so it gives support)
+ - diagnostics
+ - https
+ - error handling (suggestion)
+ - [parcle documentataion](https://parceljs.org/)
+ - tree shaking algorithm - remove unused code 
+ - diffrent build for prod dev 
+--> npx parcel build index.html
+remove script --> app.js 
+ "main": "app.js",
+
+
  
 
 
