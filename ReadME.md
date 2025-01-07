@@ -107,11 +107,19 @@ tell browser its a module
  - error handling (suggestion)
  - [parcle documentataion](https://parceljs.org/)
  - tree shaking algorithm - remove unused code 
- - diffrent build for prod dev 
+ - diffrent build for prod dev
+
+ ## build  
 --> npx parcel build index.html
 remove script --> app.js 
  "main": "app.js",
 
+👀 - dist // index.html 
+
+## temporary folders 
+ - node module 
+ - dist
+ - parche-cache
 
  
 
